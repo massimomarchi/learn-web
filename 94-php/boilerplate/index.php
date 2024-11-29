@@ -1,7 +1,7 @@
 <html>
   <head>
     <link href= "index.html">
-    <link rel="icon" href="imgs/logo.png" type="image/png">
+    <link rel="icon" href="imgs/logo.jpg" type="image/png">
     <title></title>
   </head>
   
